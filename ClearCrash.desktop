@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=ClearCrash
+Comment=Clear reported Linux crashes
+Exec=/usr/bin/gnome-terminal -e "/opt/ClearCrash/ClearCrash.sh"
+Terminal=true
+X-MultipleArgs=false
+Type=Application
+Icon=/opt/ClearCrash/ClearCrash.png
+Categories=GNOME;GTK;Development;
+Name[en_GB]=ClearCrash
