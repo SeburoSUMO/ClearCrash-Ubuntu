@@ -2,7 +2,7 @@
 Version=1.0
 Name=ClearCrash
 Comment=Clear reported Linux crashes
-Exec=/usr/bin/gnome-terminal -e "/opt/ClearCrash/ClearCrash.sh"
+Exec=/usr/bin/gnome-terminal -e "/opt/ClearCrash-Ubuntu/ClearCrash.sh"
 Terminal=true
 X-MultipleArgs=false
 Type=Application
